@@ -1,4 +1,4 @@
 ---
-title: Ryan Thompson
+title: "Ryan Thompson"
 ---
 
